@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Commencement of business",
+    "description": "Invested shareholders must confirm payment and office address",
+    "dueDate": "Due date",
+    "within30Days": "Within 30 days",
+    "perMonth": "₹300 per month.",
+    "penaltyFees": "₹300 per month."
+  },
+  {
+    "title": "Renewal of License",
+    "description": "License holders must apply for renewal by the specified date.",
+    "dueDate": "Renewal deadline",
+    "within30Days": "Within 60 days",
+    "perMonth": "₹200 per month.",
+    "penaltyFees": "₹200 per month."
+  },
+  {
+    "title": "Tax Payment",
+    "description": "Taxpayers must pay their taxes on time to avoid penalties.",
+    "dueDate": "Tax due date",
+    "within30Days": "Within 45 days",
+    "perMonth": "₹500 per month.",
+    "penaltyFees": "₹500 per month."
+  },
+  {
+    "title": "Employee Benefits",
+    "description": "Employees can enroll in benefit programs during the enrollment period.",
+    "dueDate": "Enrollment deadline",
+    "within30Days": "Within 15 days",
+    "perMonth": "₹100 per month.",
+    "penaltyFees": "₹100 per month."
+  },
+  {
+    "title": "Project Submission",
+    "description": "Students must submit their projects by the specified deadline.",
+    "dueDate": "Submission deadline",
+    "within30Days": "Within 10 days",
+    "perMonth": "₹50 per month.",
+    "penaltyFees": "₹50 per month."
+  }
+]
