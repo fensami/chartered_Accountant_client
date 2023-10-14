@@ -1,11 +1,13 @@
 import JoinUs from "../JoinUs/JoinUs";
-import AllInOne from "../allInOne/allInOne";
+import AllInOne from "../allInOne/AllInOne";
 import Banner from "../banner/Banner";
+import Search from "../Search/Search";
 
 const Home = () => {
   return (
-    <div className="">
+    <div>
       <Banner></Banner>
+      <Search></Search>
       <JoinUs></JoinUs>
       <AllInOne></AllInOne>
     </div>

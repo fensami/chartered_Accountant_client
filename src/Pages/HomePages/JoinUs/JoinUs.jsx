@@ -4,8 +4,8 @@ const JoinUs = () => {
   return (
     <div className="my-10" style={{backgroundImage: `url(${bg})`, width: '100%', height:'100%', background:'cover'}}>
       <div className="text-center">
-        <h1 className=" font-bold text-6xl">Want to Join Us?</h1>
-        <p className=" mt-2 text-2xl">
+        <h1 className=" font-bold text-3xl md:text-6xl">Want to Join Us?</h1>
+        <p className=" mt-2 md:text-2xl mx-6 md:mx-0">
           To remain with us, it is essential that you diligently follow the
           steps provided
         </p>
